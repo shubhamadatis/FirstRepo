@@ -1,0 +1,13 @@
+id	name	contact_no	DOB	salary
+1	shubham   	9167745977	NULL	NULL
+2	vishwajeet	1234567891	NULL	NULL
+3	trupti    	9876543213	NULL	NULL
+4	ashish    	3456789012	NULL	NULL
+5	umer      	875934210	NULL	NULL
+6	riz       	739845214	NULL	NULL
+1	shubham   	9167745977	NULL	NULL
+2	vishwajeet	1234567891	NULL	NULL
+3	trupti    	9876543213	NULL	NULL
+4	ashish    	3456789012	NULL	NULL
+5	umer      	875934210	NULL	NULL
+6	riz       	739845214	NULL	NULL
